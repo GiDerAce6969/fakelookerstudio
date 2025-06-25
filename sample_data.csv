@@ -1,0 +1,11 @@
+Date,Region,Product,Sales,UnitsSold
+2023-01-15,North,Laptop,12000,10
+2023-01-20,South,Monitor,4500,15
+2023-02-10,North,Keyboard,1500,30
+2023-02-18,West,Laptop,24000,20
+2023-03-05,East,Monitor,9000,30
+2023-03-12,South,Laptop,18000,15
+2023-04-21,West,Keyboard,2000,40
+2023-04-30,North,Monitor,6000,20
+2023-05-19,East,Laptop,30000,25
+2023-05-25,South,Keyboard,900,18
